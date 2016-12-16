@@ -2,5 +2,5 @@
 A stopwatch created with Vanilla Javascript
 
 ##To Do:
-Add styling <br />
-Possible increased functionality
+1. Add styling 
+2. Possible increased functionality
